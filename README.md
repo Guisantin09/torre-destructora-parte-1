@@ -1,2 +1,1 @@
-# torre-destructora-parte-1
-la torre destruira barcos (no terminado)
+# Actividad del alumno C27 1:4
